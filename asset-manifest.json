@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/educare-app/static/css/main.231ada13.css",
+    "main.js": "/educare-app/static/js/main.07ae02b4.js",
+    "static/js/453.8ab44547.chunk.js": "/educare-app/static/js/453.8ab44547.chunk.js",
+    "index.html": "/educare-app/index.html",
+    "main.231ada13.css.map": "/educare-app/static/css/main.231ada13.css.map",
+    "main.07ae02b4.js.map": "/educare-app/static/js/main.07ae02b4.js.map",
+    "453.8ab44547.chunk.js.map": "/educare-app/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.231ada13.css",
+    "static/js/main.07ae02b4.js"
+  ]
+}
